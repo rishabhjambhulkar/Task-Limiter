@@ -22,5 +22,6 @@ This Node.js application is designed to handle task processing with rate limitin
    cd task-queue-system
 2. Open Terminal:
   type this command to run the script:
-  ```bash   node server.js 
+  ```bash
+   node server.js 
 
