@@ -20,8 +20,8 @@ This Node.js application is designed to handle task processing with rate limitin
    ```bash
    git clone https://github.com/your-repo/task-queue-system.git
    cd task-queue-system
-2. Open Terminal:
-  type this command to run the script:
+2. Open Terminal type this command to run the script:
   ```bash
+   npm i
    node server.js 
 
